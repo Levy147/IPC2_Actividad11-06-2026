@@ -25,3 +25,5 @@
 * **Verbos HTTP:**
     * **GET (Recuperación de recursos):** Se utiliza estrictamente para leer o consultar datos del servidor, sin causar ninguna modificación en ellos. Es una operación **idempotente**, lo que significa que puedes realizar la misma petición GET múltiples veces y el estado del servidor (o de la base de datos) no cambiará en absoluto.
     * **POST (Creación de nuevos recursos):** Se utiliza para enviar datos al servidor con el objetivo de crear un recurso completamente nuevo. **No es idempotente**, ya que si envías exactamente la misma petición POST varias veces, crearás múltiples registros duplicados en el servidor.
+
+    https://github.com/Levy147/IPC2_Actividad11-06-2026.git
