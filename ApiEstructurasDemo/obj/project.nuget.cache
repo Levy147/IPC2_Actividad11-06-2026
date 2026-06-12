@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QNkq3BAWdl0=",
+  "success": true,
+  "projectFilePath": "E:\\Actividad 11 June IPC2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PrEdAtOr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\PrEdAtOr\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
