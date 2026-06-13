@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zvm4Y+MkEIQ=",
+  "success": true,
+  "projectFilePath": "E:\\Actividad 11 June IPC2\\IPC2_12June\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PrEdAtOr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\PrEdAtOr\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
