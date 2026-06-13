@@ -45,10 +45,10 @@ app.MapPost("/api/arbol/insertar", (NodoAVL nuevoNodo) =>
 
 app.Run();
 
-// El Modelo del Nodo (Estructura de la Sesión)
+// El Modelo del Nodo
 public class NodoAVL
 {
-    public int Id { get; set; } // Actúa como el Dato/Llave
+    public int Id { get; set; }
     public string Etiqueta { get; set; } = string.Empty;
     public int Altura { get; set; } = 1;
 }
